@@ -4,4 +4,4 @@ In this post, we will build a PyTorch image classifier using transfer learning, 
 
 The dataset is hosted at : http://files.fast.ai/data/dogscats.zip
 
-For more information visit : https://medium.com/@amvkind/cats-dogs-image-classification-using-transfer-learning-resnet-in-pytorch-1a0063163ca0
+For more information visit my blog : https://medium.com/@amvkind/cats-dogs-image-classification-using-transfer-learning-resnet-in-pytorch-1a0063163ca0
