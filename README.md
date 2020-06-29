@@ -3,3 +3,5 @@
 In this post, we will build a PyTorch image classifier using transfer learning, we will use different ResNet models and compare their losses to select a model which can classify between Cats and Dogs images.
 
 The dataset is hosted at : http://files.fast.ai/data/dogscats.zip
+
+For more information visit : https://medium.com/@amvkind/cats-dogs-image-classification-using-transfer-learning-resnet-in-pytorch-1a0063163ca0
